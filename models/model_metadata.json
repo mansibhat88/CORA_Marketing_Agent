@@ -1,0 +1,13 @@
+{
+  "training_date": "2025-06-18T23:21:16.689750",
+  "segment_labels": {
+    "0": "Budget Conscious",
+    "1": "Premium Customers",
+    "2": "High Value"
+  },
+  "models_available": {
+    "scaler": true,
+    "kmeans": true,
+    "propensity": true
+  }
+}

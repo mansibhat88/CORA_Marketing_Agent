@@ -1,0 +1,161 @@
+﻿customer_id,age,gender,product_bought,purchase_frequency,last_purchase_days_ago,total_spent,campaign_response,segment,propensity_score,campaign_strategy,segment_name
+1,25,F,Face Wash,5,10,120,1,0,0.5946428571428571,engagement,Budget Conscious
+2,45,M,Shampoo,3,40,80,0,2,0.11735912698412697,engagement,High Value
+3,33,F,Moisturizer,8,5,200,1,0,0.8872301587301586,engagement,Budget Conscious
+4,29,F,Lipstick,6,15,150,1,0,0.7245079365079363,engagement,Budget Conscious
+5,41,M,Shampoo,2,60,60,0,2,0.32043555056055056,engagement,High Value
+6,52,M,Hair Oil,1,90,30,0,2,0.44107142857142867,retention,High Value
+7,36,F,Sunscreen,7,7,180,1,0,0.9087500000000002,engagement,Budget Conscious
+8,48,M,Beard Oil,2,70,50,0,2,0.3204868421052631,retention,High Value
+9,30,F,Foundation,9,3,220,1,0,0.7649206349206349,engagement,Budget Conscious
+10,39,F,Serum,6,20,140,1,0,0.6565873015873015,engagement,Budget Conscious
+11,31,F,Hair Oil,1,77,174,0,2,0.12022619047619047,retention,High Value
+12,44,F,Lipstick,4,20,114,1,2,0.6043928571428571,cross-sell,High Value
+13,39,M,Shampoo,6,78,107,1,1,0.1719621212121212,retention,Premium Customers
+14,35,M,Sunscreen,6,11,139,1,0,0.6596031746031744,engagement,Budget Conscious
+15,32,M,Sunscreen,5,76,30,0,1,0.4008888888888889,retention,Premium Customers
+16,45,F,Face Wash,1,60,80,0,2,0.18143482905982913,engagement,High Value
+17,31,F,Serum,8,19,202,1,0,0.8507301587301588,engagement,Budget Conscious
+18,50,F,Sunscreen,5,9,33,1,1,0.8037738095238095,cross-sell,Premium Customers
+19,43,F,Moisturizer,5,48,219,1,2,0.7436825396825397,engagement,High Value
+20,47,F,Lipstick,7,15,142,1,0,0.7167658730158729,engagement,Budget Conscious
+21,35,F,Lipstick,4,42,61,0,1,0.30342929292929294,engagement,Premium Customers
+22,35,M,Moisturizer,6,44,63,0,1,0.20352453102453105,engagement,Premium Customers
+23,48,F,Moisturizer,4,11,121,0,2,0.5247499999999999,cross-sell,High Value
+24,45,F,Moisturizer,3,52,124,0,2,0.17788293650793652,engagement,High Value
+25,28,F,Lipstick,7,29,101,1,0,0.612167388167388,engagement,Budget Conscious
+26,32,M,Beard Oil,8,68,68,1,1,0.6110973470973471,retention,Premium Customers
+27,48,F,Lipstick,4,7,183,1,2,0.8649285714285716,cross-sell,High Value
+28,27,F,Serum,2,31,191,0,0,0.22713095238095238,engagement,Budget Conscious
+29,46,M,Face Wash,3,39,211,1,2,0.8354761904761907,engagement,High Value
+30,45,F,Foundation,1,40,147,0,2,0.19808928571428575,engagement,High Value
+31,26,F,Beard Oil,8,85,32,0,1,0.2869166666666667,retention,Premium Customers
+32,48,F,Shampoo,3,10,152,1,2,0.7645158730158731,cross-sell,High Value
+33,36,F,Foundation,7,67,79,1,1,0.5896933066933066,retention,Premium Customers
+34,30,F,Face Wash,5,88,41,1,1,0.6171388888888889,retention,Premium Customers
+35,26,M,Serum,5,19,83,0,0,0.42972619047619043,engagement,Budget Conscious
+36,52,M,Serum,7,73,162,1,1,0.5907725563909775,retention,Premium Customers
+37,45,M,Shampoo,9,47,86,0,1,0.1811645021645022,engagement,Premium Customers
+38,25,F,Beard Oil,5,6,174,1,0,0.8074404761904761,engagement,Budget Conscious
+39,36,F,Moisturizer,1,38,141,0,2,0.24165277777777783,engagement,High Value
+40,50,F,Beard Oil,1,72,76,0,2,0.2158165124349334,retention,High Value
+41,46,M,Serum,2,33,180,1,2,0.7700634920634919,engagement,High Value
+42,36,F,Lipstick,6,21,114,0,0,0.30121212121212126,engagement,Budget Conscious
+43,49,F,Face Wash,9,63,171,0,1,0.3945106516290727,retention,Premium Customers
+44,41,M,Shampoo,8,56,95,1,1,0.7016893384393383,engagement,Premium Customers
+45,51,F,Face Wash,5,41,104,0,2,0.2648241436925648,engagement,High Value
+46,51,M,Hair Oil,1,76,208,1,2,0.7488333333333334,retention,High Value
+47,34,M,Hair Oil,7,21,132,0,0,0.4955930735930735,engagement,Budget Conscious
+48,52,M,Beard Oil,5,41,195,1,2,0.7374642857142856,engagement,High Value
+49,52,F,Serum,6,69,67,1,1,0.6798876357560569,retention,Premium Customers
+50,40,F,Serum,7,47,79,0,1,0.23706998556998563,engagement,Premium Customers
+51,39,F,Moisturizer,3,15,127,0,0,0.3329166666666666,engagement,Budget Conscious
+52,39,F,Moisturizer,3,60,111,0,2,0.10576311188811191,engagement,High Value
+53,43,F,Moisturizer,5,22,59,0,1,0.24161111111111114,cross-sell,Premium Customers
+54,36,F,Lipstick,6,74,108,0,1,0.27304942279942285,retention,Premium Customers
+55,47,F,Foundation,9,63,120,1,1,0.5031617505301713,retention,Premium Customers
+56,44,M,Sunscreen,5,41,208,0,2,0.5984206349206349,engagement,High Value
+57,49,F,Foundation,1,3,220,1,2,0.5752380952380952,cross-sell,High Value
+58,27,M,Face Wash,4,5,81,1,0,0.6699880952380952,engagement,Budget Conscious
+59,29,F,Foundation,5,79,195,0,2,0.31540476190476197,retention,High Value
+60,43,F,Lipstick,5,64,108,1,1,0.5741727439227438,retention,Premium Customers
+61,31,F,Face Wash,7,65,59,1,1,0.66717094017094,retention,Premium Customers
+62,45,M,Foundation,4,27,135,1,2,0.373186507936508,cross-sell,High Value
+63,33,M,Lipstick,1,58,80,1,2,0.6386458680208681,engagement,High Value
+64,31,M,Sunscreen,5,35,110,0,0,0.3552150072150072,engagement,Budget Conscious
+65,42,M,Foundation,7,40,162,1,1,0.36014069264069265,engagement,Premium Customers
+66,28,F,Lipstick,6,8,58,0,0,0.4675039682539683,engagement,Budget Conscious
+67,49,M,Moisturizer,5,60,161,0,2,0.2909749373433584,engagement,High Value
+68,52,F,Serum,4,46,167,1,2,0.6340582706766916,engagement,High Value
+69,38,F,Moisturizer,2,47,213,0,2,0.328952380952381,engagement,High Value
+70,42,M,Serum,4,34,174,0,2,0.2855000000000001,engagement,High Value
+71,50,M,Shampoo,3,47,103,0,2,0.18503842940685045,engagement,High Value
+72,33,M,Shampoo,1,63,46,1,2,0.7205178571428571,retention,High Value
+73,50,M,Shampoo,8,49,113,0,1,0.2791693817878029,engagement,Premium Customers
+74,45,M,Sunscreen,5,23,98,0,2,0.2864621212121213,cross-sell,High Value
+75,26,M,Moisturizer,4,82,63,0,1,0.3447261904761904,retention,Premium Customers
+76,44,M,Serum,8,87,35,1,1,0.6568333333333334,retention,Premium Customers
+77,52,M,Lipstick,7,77,82,0,1,0.18486507936507934,retention,Premium Customers
+78,39,F,Face Wash,2,38,155,1,2,0.45275090187590195,engagement,High Value
+79,52,M,Lipstick,1,21,72,1,2,0.585,cross-sell,High Value
+80,31,M,Face Wash,4,22,144,1,0,0.39266269841269846,engagement,Budget Conscious
+81,36,F,Hair Oil,8,59,140,1,1,0.7419573759573755,engagement,Premium Customers
+82,32,M,Lipstick,2,20,180,1,0,0.562,engagement,Budget Conscious
+83,39,F,Foundation,3,49,212,1,2,0.6889920634920635,engagement,High Value
+84,27,F,Foundation,1,51,109,0,2,0.25511706349206353,engagement,High Value
+85,38,M,Beard Oil,1,16,124,1,2,0.1371666666666667,cross-sell,High Value
+86,41,F,Moisturizer,3,17,147,0,2,0.25918253968253974,cross-sell,High Value
+87,28,F,Face Wash,5,33,173,0,0,0.24416450216450222,engagement,Budget Conscious
+88,42,F,Face Wash,3,3,37,1,0,0.8782380952380953,engagement,Budget Conscious
+89,32,F,Moisturizer,1,56,161,0,2,0.24617658730158737,engagement,High Value
+90,28,M,Sunscreen,1,5,133,0,0,0.31315476190476194,engagement,Budget Conscious
+91,26,F,Beard Oil,8,18,161,0,0,0.35877777777777775,engagement,Budget Conscious
+92,30,M,Sunscreen,2,89,213,0,2,0.2744166666666667,retention,High Value
+93,46,F,Sunscreen,3,59,54,1,2,0.6179451754385965,engagement,High Value
+94,34,F,Sunscreen,2,77,125,0,2,0.14882142857142858,retention,High Value
+95,28,F,Moisturizer,3,14,184,1,0,0.639015873015873,engagement,Budget Conscious
+96,46,F,Sunscreen,7,76,122,0,1,0.2638351370851371,retention,Premium Customers
+97,42,M,Foundation,1,18,189,0,2,0.2654285714285714,cross-sell,High Value
+98,50,M,Shampoo,8,74,207,1,1,0.8321904761904761,retention,Premium Customers
+99,36,F,Hair Oil,2,78,90,0,2,0.11415151515151516,retention,High Value
+100,26,F,Face Wash,3,26,151,0,0,0.20202471139971134,engagement,Budget Conscious
+101,34,M,Face Wash,9,30,80,0,1,0.44054617604617596,engagement,Premium Customers
+102,28,F,Hair Oil,7,10,176,1,0,0.8209444444444445,engagement,Budget Conscious
+103,38,F,Moisturizer,4,38,50,0,1,0.5236825396825395,engagement,Premium Customers
+104,40,F,Lipstick,5,10,34,1,0,0.9069880952380953,engagement,Budget Conscious
+105,39,M,Moisturizer,2,60,121,0,2,0.09992977855477857,engagement,High Value
+106,32,M,Face Wash,8,62,199,1,1,0.8012777777777778,retention,Premium Customers
+107,38,M,Face Wash,4,52,90,1,2,0.6797774170274168,engagement,High Value
+108,47,F,Hair Oil,9,30,51,0,1,0.3717923976608188,engagement,Premium Customers
+109,52,F,Sunscreen,5,43,178,0,2,0.41815350877192986,engagement,High Value
+110,49,M,Moisturizer,9,66,99,1,1,0.5343165124349333,retention,Premium Customers
+111,32,M,Serum,4,29,30,1,0,0.6835753968253967,engagement,Budget Conscious
+112,45,M,Hair Oil,5,65,162,0,2,0.17737085137085143,retention,High Value
+113,40,M,Foundation,9,19,41,1,1,0.7609285714285713,cross-sell,Premium Customers
+114,37,F,Face Wash,8,75,119,0,1,0.18111688311688315,retention,Premium Customers
+115,42,M,Hair Oil,3,35,75,0,2,0.15385191197691198,engagement,High Value
+116,39,F,Moisturizer,1,86,63,0,2,0.17990151515151517,retention,High Value
+117,45,M,Face Wash,3,79,206,0,2,0.4603333333333333,retention,High Value
+118,48,F,Lipstick,4,31,107,1,2,0.5684392230576439,engagement,High Value
+119,50,M,Hair Oil,2,15,74,0,2,0.22985714285714284,cross-sell,High Value
+120,49,M,Beard Oil,1,48,184,1,2,0.7464285714285714,engagement,High Value
+121,52,M,Face Wash,7,37,102,0,1,0.2825384294068505,engagement,Premium Customers
+122,52,M,Moisturizer,8,8,55,1,1,0.7587619047619047,cross-sell,Premium Customers
+123,52,F,Shampoo,7,84,76,0,1,0.2028650793650793,retention,Premium Customers
+124,37,M,Serum,5,71,150,1,2,0.23353751803751804,retention,High Value
+125,33,F,Sunscreen,1,49,85,1,2,0.6480225468975468,engagement,High Value
+126,39,F,Moisturizer,7,27,123,0,0,0.248461038961039,engagement,Budget Conscious
+127,37,F,Foundation,7,68,136,0,1,0.32526004551004556,retention,Premium Customers
+128,25,F,Foundation,9,12,92,0,0,0.3930039682539682,engagement,Budget Conscious
+129,49,M,Shampoo,3,58,77,0,2,0.2812093695777905,engagement,High Value
+130,31,F,Sunscreen,9,32,90,1,1,0.6360443722943723,engagement,Premium Customers
+131,33,F,Beard Oil,1,7,110,0,0,0.29270238095238094,engagement,Budget Conscious
+132,48,F,Shampoo,1,35,55,1,2,0.4540860484544694,engagement,High Value
+133,25,M,Shampoo,4,67,65,1,1,0.8043653846153844,retention,Premium Customers
+134,36,M,Face Wash,9,20,30,0,1,0.7341666666666664,cross-sell,Premium Customers
+135,32,M,Foundation,6,51,37,1,1,0.715722222222222,engagement,Premium Customers
+136,48,M,Face Wash,3,13,142,1,2,0.5995515873015873,cross-sell,High Value
+137,35,F,Serum,1,87,128,1,2,0.49266666666666653,retention,High Value
+138,43,F,Sunscreen,4,28,209,1,2,0.7596944444444447,cross-sell,High Value
+139,41,M,Beard Oil,9,65,76,0,1,0.3229948939948941,retention,Premium Customers
+140,32,F,Beard Oil,3,88,156,0,2,0.31309523809523815,retention,High Value
+141,27,F,Moisturizer,9,61,85,0,1,0.36499020424020423,retention,Premium Customers
+142,27,F,Shampoo,7,29,43,0,0,0.4134920634920634,engagement,Budget Conscious
+143,25,M,Serum,4,51,57,1,0,0.7972420634920635,engagement,Budget Conscious
+144,51,M,Foundation,3,79,107,1,2,0.1946904761904762,retention,High Value
+145,29,F,Beard Oil,5,35,159,0,0,0.25214069264069267,engagement,Budget Conscious
+146,34,M,Serum,5,3,138,0,0,0.729388888888889,engagement,Budget Conscious
+147,31,M,Lipstick,3,23,183,0,0,0.36637301587301585,engagement,Budget Conscious
+148,50,M,Lipstick,9,57,43,1,1,0.5229960317460316,engagement,Premium Customers
+149,33,M,Face Wash,4,8,216,0,0,0.4697301587301588,engagement,Budget Conscious
+150,52,M,Foundation,5,83,85,0,1,0.17336507936507936,retention,Premium Customers
+151,31,F,Moisturizer,4,71,144,0,2,0.20094047619047617,retention,High Value
+152,33,M,Beard Oil,5,7,36,1,0,0.9392380952380952,engagement,Budget Conscious
+153,32,F,Shampoo,7,5,32,1,0,0.8824047619047619,engagement,Budget Conscious
+154,36,F,Shampoo,9,55,140,1,1,0.7629573759573757,engagement,Premium Customers
+155,26,M,Beard Oil,7,25,180,1,0,0.7009621212121212,engagement,Budget Conscious
+156,25,F,Sunscreen,5,55,136,1,0,0.7461976356976358,engagement,Budget Conscious
+157,40,F,Moisturizer,7,39,47,1,1,0.5418253968253968,engagement,Premium Customers
+158,47,F,Serum,5,76,67,1,1,0.5804365079365079,retention,Premium Customers
+159,47,M,Sunscreen,3,76,144,1,2,0.5433154761904762,retention,High Value
+160,48,M,Sunscreen,7,85,44,0,1,0.21838888888888885,retention,Premium Customers

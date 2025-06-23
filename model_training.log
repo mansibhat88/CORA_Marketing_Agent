@@ -1,0 +1,22 @@
+2025-06-18 23:21:14,497 - INFO - Data validation passed
+2025-06-18 23:21:16,380 - INFO - Segment distribution: {0: np.int64(43), 1: np.int64(51), 2: np.int64(66)}
+2025-06-18 23:21:16,584 - INFO - Propensity model accuracy: 0.656
+2025-06-18 23:21:16,595 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.62      0.81      0.70        16
+           1       0.73      0.50      0.59        16
+
+    accuracy                           0.66        32
+   macro avg       0.67      0.66      0.65        32
+weighted avg       0.67      0.66      0.65        32
+
+2025-06-18 23:21:16,630 - INFO - Scaler saved successfully
+2025-06-18 23:21:16,636 - INFO - K-Means model saved successfully
+2025-06-18 23:21:16,689 - INFO - Propensity model saved successfully
+2025-06-18 23:21:16,698 - INFO - All models and metadata saved successfully
+2025-06-18 23:21:29,047 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-18 23:21:32,770 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-18 23:21:37,300 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-18 23:21:42,254 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-18 23:21:47,042 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"

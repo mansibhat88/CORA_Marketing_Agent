@@ -1,0 +1,6 @@
+.env
+model.py
+apikey.py
+dummy_customer_data.csv
+generated_customer_data_160_rows.csv
+Generated_Customer_Data.cs
